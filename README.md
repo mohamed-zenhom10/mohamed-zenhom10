@@ -6,10 +6,29 @@ I mainly work with React and modern web technologies.
 My goal is to become a Software Engineer and build scalable full-stack web applications.
 </p>
 
+<h2>🌐 Connect With Me</h2>
+<p align="left">
+  <a href="https://www.facebook.com/share/14V3mHr8RY4/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-zenhom-83a67b347" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
+  <a href="mailto:zenhomm779@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="30" />
+  </a>
+  <a href="https://t.me/mohamedzenhom10" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" width="30" />
+  </a>
+  <a href="https://www.instagram.com/mohamedzenhom10" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="30" />
+  </a>
+</p>
+
 <h2>⚡ Quick Facts</h2>
 <ul>
   <li>💻 Front-End Developer focused on React</li>
-  <li>🌱 Currently improving my skills to become a Full-Stack Developer</li>
+  <li>🌱 Currently learning to become a Full-Stack Developer</li>
   <li>🎯 Goal: Software Engineer & Full-Stack Web Developer</li>
   <li>👨‍💻 All my projects are available here on GitHub</li>
 </ul>
