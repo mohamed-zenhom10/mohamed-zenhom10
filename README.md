@@ -46,5 +46,4 @@ My goal is to become a Software Engineer and build scalable full-stack web appli
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" />
 </p>
 
-![Mohamed Zenhom GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-zenhom10&show_icons=true&count_private=true&theme=radical)
-
+https://github-readme-stats.vercel.app/api?username=mohamed-zenhom10&show_icons=true&count_private=true&theme=radical
