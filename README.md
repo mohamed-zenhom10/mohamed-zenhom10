@@ -46,4 +46,4 @@ My goal is to become a Software Engineer and build scalable full-stack web appli
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true" alt="Mohamed Zenhom GitHub Stats" />
+![Mohamed Zenhom GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedzenhom10&show_icons=true&count_private=true&theme=radical)
