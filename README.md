@@ -25,7 +25,6 @@ My goal is to become a Software Engineer and build scalable full-stack web appli
   </a>
 </p>
 
-
 <h2>⚡ Quick Facts</h2>
 <ul>
   <li>💻 Front-End Developer focused on React</li>
@@ -46,8 +45,6 @@ My goal is to become a Software Engineer and build scalable full-stack web appli
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" />
 </p>
 
-![Tech Stack](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)
+<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-zenhom10&show_icons=true)
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-zenhom10&show_icons=true" />
