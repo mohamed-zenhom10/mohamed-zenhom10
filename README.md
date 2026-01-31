@@ -46,5 +46,5 @@ My goal is to become a Software Engineer and build scalable full-stack web appli
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" />
 </p>
 
-https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif
+![Tech Stack](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)
 
