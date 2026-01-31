@@ -48,6 +48,6 @@ My goal is to become a Software Engineer and build scalable full-stack web appli
 
 ![Tech Stack](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-zenhom10&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-zenhom10&show_icons=true)
 
 
