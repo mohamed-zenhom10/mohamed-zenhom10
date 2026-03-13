@@ -42,6 +42,7 @@ My goal is to become a Software Engineer and build scalable full-stack web appli
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" />
 </p>
 
