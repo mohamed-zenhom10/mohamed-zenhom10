@@ -25,6 +25,10 @@ My goal is to become a Software Engineer and build scalable full-stack web appli
   </a>
 </p>
 
+<h2>My Portfolio</h2>
+<a href="https://mohamed-zenhom-portfolio.netlify.app/" target="_blank">Visit My Portfolio</a>
+
+
 <h2>⚡ Quick Facts</h2>
 <ul>
   <li>💻 Front-End Developer focused on React</li>
