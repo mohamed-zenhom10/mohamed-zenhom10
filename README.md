@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" width="60" style="filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg](https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="60" style="filter: invert(1);" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" />
 </p>
